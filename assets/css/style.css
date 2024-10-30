@@ -1,0 +1,8 @@
+.payment_method_pagarme-credit-card {}
+.payment_method_pagarme-credit-card .payment_box fieldset {border:0px !important;}
+.payment_method_pagarme-credit-card .payment_box p:first-child  {display:none !important;}
+.payment_method_pagarme-banking-ticket {padding:0px !important;margin:0px !important;}
+.payment_method_pagarme-banking-ticket .payment_box {display:none !important;padding:0px !important;margin:0px !important;}
+.payment_method_pagarme-banking-ticket .payment_box p:first-child  {display:none !important;}
+.payment_method_wc_pagarme_pix_payment_geteway {padding:0px !important;margin:0px !important;}
+.payment_method_wc_pagarme_pix_payment_geteway .payment_box {display:none !important;padding:0px !important;margin:0px !important;}
